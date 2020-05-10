@@ -7,6 +7,7 @@
     "react-dom": "^16.13.1"
   },
   "scripts": {
+    "now-build": "yarn run catalog-build",
     "catalog-start": "catalog start",
     "catalog-build": "catalog build"
   }
